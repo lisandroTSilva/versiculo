@@ -1,0 +1,10 @@
+{
+    "version": "0.1.0",
+    "showOutput": "always",
+    "echoCommand": true,
+    "taskName": "Open Browser",
+    "suppressTaskName": true,
+    "isBackground": true,
+    "command": "php",
+    "args": ["-S", "localhost:8080"]
+}
